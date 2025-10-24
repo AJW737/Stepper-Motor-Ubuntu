@@ -1,0 +1,2 @@
+source /home/amelia/stepper_controller/build/bootloader/gdbinit/symbols
+source /home/amelia/stepper_controller/build/bootloader/gdbinit/connect

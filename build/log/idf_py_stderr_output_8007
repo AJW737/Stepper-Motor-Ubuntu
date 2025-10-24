@@ -1,0 +1,11 @@
+Command: cmake -G Ninja -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/home/amelia/.espressif/python_env/idf5.1_py3.12_env/bin/python -DESP_PLATFORM=1 -DCCACHE_ENABLE=False /home/amelia/stepper_controller
+CMake Error at /home/amelia/esp-idf/tools/cmake/build.cmake:375 (message):
+  Failed to resolve component 'json' required by component 'main': unknown
+  name.
+Call Stack (most recent call first):
+  /home/amelia/esp-idf/tools/cmake/build.cmake:418 (__build_resolve_and_add_req)
+  /home/amelia/esp-idf/tools/cmake/build.cmake:748 (__build_expand_requirements)
+  /home/amelia/esp-idf/tools/cmake/project.cmake:739 (idf_build_process)
+  CMakeLists.txt:3 (project)
+
+

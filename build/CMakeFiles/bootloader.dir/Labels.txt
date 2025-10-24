@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/amelia/stepper_controller/build/CMakeFiles/bootloader
+/home/amelia/stepper_controller/build/CMakeFiles/bootloader.rule
+/home/amelia/stepper_controller/build/CMakeFiles/bootloader-complete.rule
+/home/amelia/stepper_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/amelia/stepper_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/amelia/stepper_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/amelia/stepper_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/amelia/stepper_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/amelia/stepper_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/amelia/stepper_controller/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
